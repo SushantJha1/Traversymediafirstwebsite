@@ -4,19 +4,23 @@ h1{
     font-size: 40px;
 }
 h3{
-    margin-left: 300px;
 }
 header{
 background-image: url("pexels-photo-248515.png");
+background-size: contain;
 color: azure;
 padding: 60px;
-background-size:contain;
+text-align: center;
 }
 button{
     margin-left: 640px;
-    font-size: 15px;
-    background-color: rgb(97, 92, 92);
-    color: azure;
+    display: inline-block;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: 1em 2em;
+    border: 1px solid #666;
+    margin: 0.5em 0;
 }
 .fcontainer{
     display: flex;
@@ -25,6 +29,9 @@ button{
 }
 body{
     background-color: gainsboro;
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h2{
     margin-left: 37%;
@@ -47,11 +54,13 @@ h2{
     position: relative;
     background-color: white;
     margin-left: 300px;
+    text-align: center;
 }
 .pbox h5{
     position: absolute;
     top: 220px;
     margin: 15px;
+    text-align: center;
 }
 .pbox p{
     position: absolute;
@@ -75,11 +84,13 @@ h5{
     position: relative;
     background-color: white;
     margin-left: 25px;
+    text-align: center;
 }
 .lbox h5{
     position: absolute;
     top: 220px;
     margin: 15px;
+
 }
 .lbox p{
     position: absolute;
@@ -100,11 +111,13 @@ h5{
     position: relative;
     background-color: white;
     margin-left: 25px;
+    text-align: center;
 }
 .mbox h5{
     position: absolute;
     top: 220px;
     margin: 15px;
+    margin-left: 30px;
 }
 .mbox p{
     position: absolute;
@@ -135,10 +148,10 @@ h5{
     margin-top: 40px;
 }
 .line1{
-    margin-left: 415px;
+    text-align: center;
 }
 .line2{
-    margin-left: 650px;
+    text-align: center;
 }
 .bluebox{
     width: 750px;
@@ -160,13 +173,15 @@ h5{
     color: white;
     width: 600px;
     margin-left: 75px;
-    font-size: 15px;
+    font-size: 20px;
+    text-align: center;
 }
 .bluebox p{
     color: white;
     width: 600px;
     margin-left: 75px;
-    font-size: 15px;
+    font-size: 20px;
+    text-align: center;
 }
 .colorboxes{
     display: flex;
@@ -189,4 +204,5 @@ h5{
 }
 .cob{
     display: flex;
+    text-align: center;
 }
