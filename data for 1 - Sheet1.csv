@@ -1,0 +1,27 @@
+,,,,,,,
+,,Company,Company_ID,Year,ROA (%),Debt-to-Equity,R&D Expenditure (% of Sales)
+,,Maruti Suzuki,C1,FY2020,8.9,0,4.2
+,,Maruti Suzuki,C1,FY2021,6.5,0,4.4
+,,Maruti Suzuki,C1,FY2022,5.32,0,4.5
+,,Maruti Suzuki,C1,FY2023,9.46,0,4.7
+,,Maruti Suzuki,C1,FY2024,12.52,0,4.8
+,,Tata Motors,C2,FY2020,-11.64,1.14,5.1
+,,Tata Motors,C2,FY2021,-3.68,1.14,5.2
+,,Tata Motors,C2,FY2022,-2.17,1.17,5.4
+,,Tata Motors,C2,FY2023,4.41,0.84,5.6
+,,Tata Motors,C2,FY2024,11.95,0.46,5.8
+,,Mahindra & Mahindra,C3,FY2020,7.88,0.32,3.8
+,,Mahindra & Mahindra,C3,FY2021,5.62,0.28,3.9
+,,Mahindra & Mahindra,C3,FY2022,6.75,0.26,4
+,,Mahindra & Mahindra,C3,FY2023,8.33,0.21,4.1
+,,Mahindra & Mahindra,C3,FY2024,10.05,0.18,4.3
+,,Ashok Leyland,C4,FY2020,1.46,0.42,2
+,,Ashok Leyland,C4,FY2021,-1.7,0.53,2.2
+,,Ashok Leyland,C4,FY2022,2.66,0.48,2.3
+,,Ashok Leyland,C4,FY2023,6.1,0.38,2.5
+,,Ashok Leyland,C4,FY2024,11.08,0.26,2.6
+,,Hero MotoCorp,C5,FY2020,19.37,0,3
+,,Hero MotoCorp,C5,FY2021,13.37,0,3.1
+,,Hero MotoCorp,C5,FY2022,11.38,0,3.3
+,,Hero MotoCorp,C5,FY2023,12.51,0,3.5
+,,Hero MotoCorp,C5,FY2024,15.51,0,3.6
